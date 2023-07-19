@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/AceDub/single-page-design-portfolio)
-- Live Site URL: [https://acedub.github.io/single-page-design-portfolio/](https://acedub.github.io/single-page-design-portfolio/)
+- Solution URL: [GitHub](https://github.com/awongdev/single-page-design-portfolio)
+- Live Site URL: [https://awongdev.github.io/single-page-design-portfolio/](https://awongdev.github.io/single-page-design-portfolio/)
 
 ## My process
 
@@ -49,4 +49,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@AceDub](https://www.frontendmentor.io/profile/AceDub)
-- GitHub - [@AceDub](https://github.com/AceDub)
+- GitHub - [@awongdev](https://github.com/awongdev)
